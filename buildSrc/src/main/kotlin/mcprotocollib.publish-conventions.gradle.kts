@@ -4,8 +4,8 @@ plugins {
 }
 
 indra {
-    publishSnapshotsTo("geysermc", "https://repo.opencollab.dev/maven-snapshots")
-    publishReleasesTo("geysermc", "https://repo.opencollab.dev/maven-releases")
+    publishSnapshotsTo("cafestubeRepository", "https://repo.cafestu.be/maven-public-snapshots")
+    publishReleasesTo("cafestubeRepository", "https://repo.cafestu.be/maven-public")
 
     configurePublications {
         pom {

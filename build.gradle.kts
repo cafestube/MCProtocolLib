@@ -3,5 +3,5 @@ plugins {
 }
 
 allprojects {
-    group = "org.geysermc.mcprotocollib"
+    group = "eu.cafestube.mcprotocollib"
 }
